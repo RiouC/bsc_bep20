@@ -1,0 +1,9 @@
+
+
+configurer metamask
+
+Seulenent 1 testnet sur binance
+faucet bsc
+erc20 sur la bsc
+deploy sur hardhat si on peut, sinon remix
+interface react minimaliste
